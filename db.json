@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Namrata",
+      "lastName": "Sahooooo",
+      "email": "Namrata@GMAIL.COM",
+      "dob": "2016-02-01T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "ABCDDDD",
+      "package": "33",
+      "experience": "2",
+      "id": 3
+    }
+  ]
+}
