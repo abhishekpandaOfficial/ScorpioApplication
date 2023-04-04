@@ -2,9 +2,21 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
+1. ng new crud-app
+2. ng add @angular/material
+3. ng serve
+4. ng g c emp-add-edit
+5. ng g s services/employee
+6. ng g s core/core
+7. npm install ngx-toastr -save. --> For Toastr Notifications
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+
+To Start JSOn Server : Please run the below command :
+                           sudo json-server --watch db.json  
 
 ## Code scaffolding
 
